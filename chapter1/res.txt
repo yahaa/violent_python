@@ -1,0 +1,206 @@
+115.29.146.3 220-Microsoft FTP Service
+220 欢迎您使用万网主机，如果您FTP登陆账户验证失败，请登陆主机控制面板：cp.hichina.com进行口令重置
+
+115.29.146.4 220 Serv-U FTP Server v15.0 ready...
+
+115.29.146.13 220---------- 欢迎来到 Pure-FTPd [privsep] ----------
+220-您是第 1 个使用者，最多可达 50 个连接
+220-现在本地时间是 14:13。服务器端口： 21。
+220-这是私人系统 - 不开放匿名登录
+220-这部主机也欢迎IPv6的连接
+220 在 15 分钟内没有活动，您被会断线。
+
+115.29.146.14 220 (vsFTPd 2.3.5)
+
+115.29.146.18 220 Xlight FTP 3.6 就绪...
+
+115.29.146.19 220-FileZilla Server version 0.9.41 beta
+220 welcome!
+
+115.29.146.23 220 (vsFTPd 3.0.2)
+
+115.29.146.26 220-FileZilla Server version 0.9.41 beta
+
+115.29.146.28 220-FileZilla Server version 0.9.46 beta
+220-written by Tim Kosse (tim.kosse@filezilla-project.org)
+220 Please visit http://sourceforge.net/projects/filezilla/
+
+115.29.146.37 220 Connected to 115.29.146.37 ready...
+
+115.29.146.38 220 ready, FtpServer (vsFTPd 3.0.3: beat me, break me)
+
+115.29.146.47 220 Welcome to www.net.cn FTP service.
+
+115.29.146.49 220-Microsoft FTP Service
+
+115.29.146.51 220-Microsoft FTP Service
+220 欢迎您使用万网主机，如果您FTP登陆账户验证失败，请登陆主机控制面板：cp.hichina.com进行口令重置
+
+115.29.146.53 220 vsFTPd 3.0.2+ (ext.1) ready...
+
+115.29.146.54 220 Welcome to www.net.cn FTP service.
+
+115.29.146.55 220-Microsoft FTP Service
+
+115.29.146.60 220 Welcome polosoft
+
+115.29.146.61 220 (vsFTPd 3.0.2)
+
+115.29.146.62 220 (vsFTPd 2.2.2)
+
+115.29.146.63 220---------- 欢迎来到 Pure-FTPd [privsep] ----------
+220-您是第 1 个使用者，最多可达 50 个连接
+220-现在本地时间是 14:14。服务器端口： 21。
+220-这是私人系统 - 不开放匿名登录
+220-这部主机也欢迎IPv6的连接
+220 在 15 分钟内没有活动，您被会断线。
+
+115.29.146.65 220 Microsoft FTP Service
+
+115.29.146.73 220 Microsoft FTP Service
+
+115.29.146.76 220-Welcome to szwengdo@aliyun FTP
+
+115.29.146.79 220 (vsFTPd 3.0.2)
+
+115.29.146.81 220 Welcome to www.net.cn FTP service.
+
+115.29.146.82 220---------- 欢迎来到 Pure-FTPd [privsep] ----------
+220-您是第 1 个使用者，最多可达 50 个连接
+220-现在本地时间是 14:14。服务器端口： 21。
+220-这是私人系统 - 不开放匿名登录
+220 在 15 分钟内没有活动，您被会断线。
+
+115.29.146.88 220 Welcome to FTP service.
+
+115.29.146.91 220 Welcome to www.net.cn FTP service.
+
+115.29.146.94 220-Microsoft FTP Service
+
+115.29.146.95 220 Microsoft FTP Service
+
+115.29.146.96 220 (vsFTPd 3.0.2)
+
+115.29.146.97 220-FileZilla Server version 0.9.41 beta
+
+115.29.146.100 220-Microsoft FTP Service
+
+115.29.146.101 220 Microsoft FTP Service
+
+115.29.146.106 220 (vsFTPd 2.0.5)
+
+115.29.146.109 220 Microsoft FTP Service
+
+115.29.146.110 220 (vsFTPd 2.3.5)
+
+115.29.146.114 220-FileZilla Server v0.9.33 beta
+
+115.29.146.116 220-FileZilla Server version 0.9.41 beta
+
+115.29.146.117 220 Microsoft FTP Service
+
+115.29.146.118 220-Microsoft FTP Service
+220 欢迎您使用万网主机，如果您FTP登陆账户验证失败，请登陆主机控制面板：cp.hichina.com进行口令重置
+
+115.29.146.121 220 Serv-U FTP Server v6.0 for WinSock ready...
+
+115.29.146.124 220 (vsFTPd 3.0.2)
+
+115.29.146.133 220---------- Welcome to Pure-FTPd [privsep] ----------
+220-You are user number 1 of 50 allowed.
+220-Local time is now 14:14. Server port: 21.
+220-This is a private system - No anonymous login
+220 You will be disconnected after 15 minutes of inactivity.
+
+115.29.146.134 220 Microsoft FTP Service
+
+115.29.146.137 220 Welcome to www.net.cn FTP service.
+
+115.29.146.145 220 Serv-U FTP Server v15.0 ready...
+
+115.29.146.150 220-Microsoft FTP Service
+220 欢迎您使用万网主机，如果您FTP登陆账户验证失败，请登陆主机控制面板：cp.hichina.com进行口令重置
+
+115.29.146.155 220---------- 欢迎来到 Pure-FTPd [privsep] ----------
+220-您是第 1 个使用者，最多可达 50 个连接
+220-现在本地时间是 14:14。服务器端口： 21。
+220-这是私人系统 - 不开放匿名登录
+220 在 15 分钟内没有活动，您被会断线。
+
+115.29.146.157 220-FileZilla Server version 0.9.43 beta
+
+115.29.146.161 220 (vsFTPd 2.2.2)
+
+115.29.146.163 220-Microsoft FTP Service
+
+115.29.146.164 220 Microsoft FTP Service
+
+115.29.146.169 220 (vsFTPd 3.0.2)
+
+115.29.146.170 220 Welcome to www.net.cn FTP service.
+
+115.29.146.172 220-FileZilla Server version 0.9.41 beta
+
+115.29.146.174 220---------- 欢迎来到 Pure-FTPd [privsep] ----------
+220-您是第 1 个使用者，最多可达 50 个连接
+220-现在本地时间是 14:15。服务器端口： 21。
+220-这是私人系统 - 不开放匿名登录
+220 在 15 分钟内没有活动，您被会断线。
+
+115.29.146.176 220 hahoo
+
+115.29.146.177 220---------- Welcome to Pure-FTPd [privsep] ----------
+220-You are user number 1 of 40 allowed.
+220-Local time is now 14:15. Server port: 21.
+220-This is a private system - No anonymous login
+220-IPv6 connections are also welcome on this server.
+220 You will be disconnected after 15 minutes of inactivity.
+
+115.29.146.178 220---------- Welcome to Pure-FTPd [privsep] ----------
+220-You are user number 1 of 5000 allowed.
+220-Local time is now 14:15. Server port: 21.
+220-This is a private system - No anonymous login
+220 You will be disconnected after 15 minutes of inactivity.
+
+115.29.146.182 220 Microsoft FTP Service
+
+115.29.146.183 220 welcome to Serv-U FTP Server
+
+115.29.146.186 220 (vsFTPd 2.3.5)
+
+115.29.146.188 220 Serv-U FTP Server v6.4 for WinSock ready...
+
+115.29.146.193 220---------- 欢迎来到 Pure-FTPd [privsep] ----------
+220-您是第 1 个使用者，最多可达 50 个连接
+220-现在本地时间是 14:15。服务器端口： 21。
+220-这是私人系统 - 不开放匿名登录
+220-这部主机也欢迎IPv6的连接
+220 在 15 分钟内没有活动，您被会断线。
+
+115.29.146.206 220---------- 欢迎来到 Pure-FTPd [privsep] ----------
+220-您是第 1 个使用者，最多可达 50 个连接
+220-现在本地时间是 14:15。服务器端口： 21。
+220-这是私人系统 - 不开放匿名登录
+220 在 15 分钟内没有活动，您被会断线。
+
+115.29.146.211 220 (vsFTPd 3.0.2)
+
+115.29.146.227 220 Welcome to www.net.cn FTP service.
+
+115.29.146.229 220 (vsFTPd 2.3.5)
+
+115.29.146.230 220-FileZilla Server version 0.9.46 beta
+
+115.29.146.234 220-FileZilla Server version 0.9.46 beta
+
+115.29.146.238 220-FileZilla Server v0.9.33 beta
+
+115.29.146.242 220-Wellcome to Home Ftp Server!
+220 FTP server ready.
+
+115.29.146.243 220-FileZilla Server version 0.9.41 beta
+
+115.29.146.244 220 Welcome to MK FTP service.
+
+115.29.146.252 220 Microsoft FTP Service
+
