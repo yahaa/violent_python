@@ -4,7 +4,7 @@ import ftplib
 def anonLogin(hostname):
     try:
         ftp = ftplib.FTP(hostname)
-        ftp.login('yahaa', 'Asd147258')
+        ftp.login('yahaa', '******')
         print str(hostname) + ' anonymous login succeeded'
         ftp.quit()
         return True
