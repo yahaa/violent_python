@@ -1,4 +1,4 @@
 import pexpect
-child=pexpect.spawn('python')
+child = pexpect.spawn('python')
 print child.expect(['>>>'])
 print child.before
