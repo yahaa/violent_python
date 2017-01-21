@@ -1,4 +1,5 @@
 import pyPdf
+import optparse
 from pyPdf import PdfFileReader
 
 
@@ -9,5 +10,17 @@ def printMeta(fileName):
     for meatItem in docInfo:
         print '[+] ' + meatItem + ':' + docInfo[meatItem]
 
-fileName = 'ANONOPS_The_Press_Release.pdf'
-printMeta(fileName)
+
+def main():
+    parser = optparse.OptionParser('usage %prog -F <PDF file name>')
+    parser.add_option('-F', dest='fileName', type='string',
+                      help='specify PDF file name')
+    (options, args) = parser.parse_args()
+    fileName = options.fileName
+    if fileName == None:
+        print parser.usage
+        exit(0)
+    else:
+        printMeta(fileName)
+if __name__ == '__main__':
+    main()
