@@ -10,4 +10,3 @@ def pktPrint(pkt):
         print '[+] Detected a DNS Packet'
 conf.iface = 'wlan0'
 sniff(prn=pktPrint)
-
