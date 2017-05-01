@@ -18,9 +18,10 @@ def echo_service(port):
             try:
                 data = conn.recv(1024)
                 print data
-                conn.send("server redeived you message.")
+                conn.send('Server have recviced you msg')
             except socket.error, e:
                 print e
+                clients.remove(conn)
                 break
     # s.close()
 
