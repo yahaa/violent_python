@@ -30,9 +30,13 @@ def main():
     while True:
         print '#-H xxx.xxx.xxx.xxx -P xxx -C <...>'
         cmd = raw_input('>>> ')
+        print cmd
         if len(cmd):
             if cmd[0] == '#':
                 sendCmd(cmd)
+            elif cmd[0] == '*':
+                sys.exit(0)
+
 
 if __name__ == '__main__':
     main()

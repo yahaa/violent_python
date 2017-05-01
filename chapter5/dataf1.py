@@ -10,8 +10,14 @@ trainSet = pd.read_csv('raw/TrainingSet.csv')
 testSubSet = pd.read_csv('raw/TestSubset.csv')
 trainSubSet = pd.read_csv('raw/TrainingSubset.csv')
 
-train = trainSet.drop(['EbayID', 'QuantitySold', 'SellerName'], axis=1)
+
+
+print testSet
+
+train = trainSet.drop(['EbayID', 'QuantitySold', 'SellerName','EndDay'], axis=1)
 trainTarget = trainSet['QuantitySold']
+
+print train
 
 xx, nfeatures = train.shape
 df = DataFrame(train, trainTarget[:, None], columns=range(
@@ -26,3 +32,4 @@ sns.heatmap(corr, mask=mask, cmap=cmap, vmax=.3, square=True,
             xticklabels=5, yticklabels=2, linewidths=.5, cbar_kws={"shrink": .5})
 plt.yticks(rotation=0)
 plt.show()
+
