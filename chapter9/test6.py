@@ -39,7 +39,6 @@ def get_res():
             sid = item[0]
             url = 'http://www.dianping.com/shop/' + sid + '/review_more_latest'
             time = get_latest_com(url)
-            print time
             lng, lat = get_lng_lat(item[1])
             upate_store(time, lng, lat, sid)
             print '已完成　[%d/%d]' % (ti, n)

@@ -98,7 +98,7 @@ def get_controller_time():
     # kwargs['tls'] = TLSConfig(client_cert=cert, verify=False)
     # kwargs['base_url'] = 'tcp://%s:12376' % '192.168.100.182'
     c = docker_client(base_url='tcp://%s:12376' %
-                      '192.168.100.182', tls=False)
+                      '192.168.100.182', tls=True)
     # c = docker_client(environment={})
 
     # c = docker_client(**kwargs)

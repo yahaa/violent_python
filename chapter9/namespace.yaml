@@ -1,0 +1,14 @@
+apiVersion: extensions/v1beta1
+kind: NetworkPolicy
+metadata:
+  name: allow-nginx1-to-nginx2
+  namespace: default
+spec:
+  podSelector:
+  matchLabels:
+  run: nginx2
+ ingress:
+ - from:
+ - podSelector:
+ matchLabels:
+ run: nginx1
